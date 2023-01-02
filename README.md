@@ -1,6 +1,6 @@
 # Design a GUI interface to do CRUD with MariaDB.
 ### 
- 
+
 * StudentDB_20_StudentManagement:
 
 ## Libraries
