@@ -1,4 +1,4 @@
-# Using GUI to handle student and teacher database with MariaDB SQL.
+# Design a GUI interface to do CRUD with MariaDB.
 ### 
 
 * StudentDB_20_StudentManagement:
